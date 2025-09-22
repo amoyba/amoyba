@@ -54,7 +54,7 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amoyba?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="amoyba's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/amoyba?cardType=github&theme=github-dark&preferLogin=false" />  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=amoyba&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amoyba&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
