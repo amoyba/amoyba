@@ -77,6 +77,21 @@
 </p>
 
 ---
+## 🌐 My Website  
+
+### 🔥 Live Preview  
+[![Website Preview](https://api.microlink.io/?url=https://dev.osti.com.ph&overlay.browser=dark&overlay.shadow=true&overlay.background=true&overlay.logo=logo)](https://dev.osti.com.ph)
+
+---
+
+### 🚀 Visit My Site  
+[![Visit Website](https://img.shields.io/badge/Website-dev.osti.com.ph-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev.osti.com.ph)
+
+---
+
+### 🎥 Demo GIF (Optional)  
+<!-- Replace this link with your own recorded GIF -->
+![Website Demo](https://i.imgur.com/2yaf2wb.gif)
 
 ## 🖼️ Sample Works (from the Web)
 
