@@ -6,9 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amoyba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amoyba&theme=flat&margin-w=10&margin-h=10" alt="Trophies" />
-  </a>
 </p>
 
 ---
@@ -46,6 +43,14 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amoyba&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
+
+---
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
@@ -55,6 +60,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoyba&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amoyba&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
@@ -77,6 +90,7 @@
 </p>
 
 ---
+
 ## 🌐 My Website  
 
 ### 🔥 Live Preview  
@@ -88,10 +102,6 @@
 [![Visit Website](https://img.shields.io/badge/Website-dev.osti.com.ph-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev.osti.com.ph)
 
 ---
-
-### 🎥 Demo GIF (Optional)  
-<!-- Replace this link with your own recorded GIF -->
-![Website Demo](https://i.imgur.com/2yaf2wb.gif)
 
 ## 🖼️ Sample Works (from the Web)
 
